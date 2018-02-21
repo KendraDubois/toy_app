@@ -9,7 +9,9 @@ https://stormy-citadel-34773.herokuapp.com/
 The app does not have a navigation menu as this was not part of my goal.
 
 Here are the links to the pages I created:
+
 https://stormy-citadel-34773.herokuapp.com/users
+
 https://stormy-citadel-34773.herokuapp.com/microposts
 
 Microposts can be created/edited/destroyed and users can be created/edited/destroyed. 
